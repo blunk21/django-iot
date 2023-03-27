@@ -33,7 +33,7 @@ ALLOWED_HOSTS = ["*"]
 
 # FORM SUBMISSION
 # Comment out the following line and place your railway URL, and your production URL in the array.
-CSRF_TRUSTED_ORIGINS = ["http://django-iot.up.railway.app","hhtp://localhost:8000","http://127.0.0.1:8000"]
+CSRF_TRUSTED_ORIGINS = ["https://django-iot.up.railway.app","http://localhost:8000","http://127.0.0.1:8000"]
 
 # Application definition
 
